@@ -1,0 +1,28 @@
+
+        body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+        background-color: black;
+        }
+
+       p {
+           color: white;
+           font-family: cursive;
+       }
+
+       .start_box {
+           background-color: red;
+           width: 850px;
+           border-radius: 30px;
+           border-width: 5px;
+           border-color: rgb(4, 105, 13);
+           border-style: solid;
+       }
+       button, input {
+           background-color: black;
+           color: white;
+           font-family: cursive;
+       }
